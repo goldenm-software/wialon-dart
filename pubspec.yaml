@@ -1,0 +1,14 @@
+name: "wialon"
+description: "Wialon Remote API wrapper for Dart Language. For more information about the Remote API please visit https://sdk.wialon.com/"
+repository: "https://github.com/goldenm-software/wialon-dart"
+version: '2.0.5'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  http: ^0.13.5
+  html: ^0.15.0
+
+dev_dependencies:
+  test: ^1.20.2
